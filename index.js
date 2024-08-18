@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["PLAYING","MUSIC"];
+const statusMessages = ["I'm Ioniq","Let's Play"];
 
 
 let currentIndex = 0;
